@@ -1,0 +1,53 @@
+[
+    {
+        "category": "History",
+        "score": 2,
+        "timestamp": "Tue Jul 15 17:21:02 2025"
+    },
+    {
+        "category": "General Knowledge",
+        "score": 0,
+        "timestamp": "Tue Jul 15 17:27:43 2025"
+    },
+    {
+        "category": "Science",
+        "score": 9,
+        "timestamp": "Tue Jul 15 17:34:54 2025"
+    },
+    {
+        "username": "Jordan",
+        "category": "General Knowledge",
+        "score": 3,
+        "timestamp": "Tue Jul 15 17:45:39 2025"
+    },
+    {
+        "username": "Joe",
+        "category": "General Knowledge",
+        "score": 1,
+        "timestamp": "Tue Jul 15 17:46:19 2025"
+    },
+    {
+        "username": "killer",
+        "category": "Math",
+        "score": 2,
+        "timestamp": "Tue Jul 15 17:53:44 2025"
+    },
+    {
+        "username": "beast",
+        "category": "Math",
+        "score": 5,
+        "timestamp": "Tue Jul 15 17:57:14 2025"
+    },
+    {
+        "username": "obli",
+        "category": "General Knowledge",
+        "score": 2,
+        "timestamp": "Tue Jul 15 18:01:28 2025"
+    },
+    {
+        "username": "freak",
+        "category": "History",
+        "score": 4,
+        "timestamp": "Tue Jul 15 18:04:17 2025"
+    }
+]
